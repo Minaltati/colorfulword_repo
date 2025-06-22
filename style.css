@@ -264,7 +264,7 @@ p{
 .explore{
     width: 100%;
     height: 100vh;
-    background-image: url("../new3/mtp.kl.jpg");
+    background-image: url("./mtp.kl.jpg");
     background-position: center;
     background-size:cover ;
     background-repeat: no-repeat;
